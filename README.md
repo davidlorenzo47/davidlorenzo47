@@ -30,10 +30,24 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50">
+<img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.png" width="50">
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+<!--img src="" width=""-->
+  
 </div>
 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&theme=radical&langs_count=6&layout=compact">
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&theme=radical&langs_count=6&layout=compact"-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&amp;hide=java,html,css&amp;theme=radical">
 </div>
