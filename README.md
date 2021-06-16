@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h2 align="center">Hi there </h2>
+<img width="28" scr="https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif">
 
 <!--
 **davidlorenzo47/davidlorenzo47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&theme=radical&langs_count=6&layout=compact">
+</div>
