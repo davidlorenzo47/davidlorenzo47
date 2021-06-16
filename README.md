@@ -1,6 +1,9 @@
 
-<h2 align="center">Hi there </h2>
-<img width="28" scr="https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif">
+<h2 align="center">Hey, Welcome to Dhruvang's Github Profile <br>
+<a target="_blank">
+<img width="50" src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" style="max-width:100%;">
+</a>
+</h2>
 
 <!--
 **davidlorenzo47/davidlorenzo47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
