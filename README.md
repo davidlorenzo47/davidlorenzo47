@@ -1,8 +1,6 @@
-
+###
 <h2 align="center">Hello, I am Dhruvang<br> Welcome to my Github Profile <br>
-<a target="_blank">
 <img width="50" src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" style="max-width:100%;">
-</a>
 </h2>
 
 <!--
@@ -19,6 +17,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧰 Toolbox
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50">
+</div>
+
+---
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&theme=radical&langs_count=6&layout=compact">
