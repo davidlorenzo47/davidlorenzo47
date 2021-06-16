@@ -1,5 +1,5 @@
 
-<h2 align="center">Hey, Welcome to Dhruvang's Github Profile <br>
+<h2 align="center">Hello, I am Dhruvang<br> Welcome to my Github Profile <br>
 <a target="_blank">
 <img width="50" src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" style="max-width:100%;">
 </a>
