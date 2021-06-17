@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🧰 Toolbox
+Tools and languages
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50">
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50">
 <img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.png" width="50">
-<!--img src="" width=""-->
-<!--img src="" width=""-->
+<img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" width="50">
+<img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" width="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50">
 <!--img src="" width=""-->
 <!--img src="" width=""-->
 <!--img src="" width=""-->
