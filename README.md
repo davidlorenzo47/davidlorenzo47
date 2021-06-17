@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h3>About me</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFD2&size=30&center=true&vCenter=true&width=700&lines=Eager+to+learn+new+things;Technophile;Loves+Computer+and+Computer+Technologies">
+</div>
+
+---
 Tools and languages
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
