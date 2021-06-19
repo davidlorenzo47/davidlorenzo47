@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-Tools and languages I love working with
+Tools and Technologies I love working with
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50">
