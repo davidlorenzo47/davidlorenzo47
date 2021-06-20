@@ -1,6 +1,6 @@
 ###
 <h2 align="center">Hello, I am Dhruvang<br> Welcome to my Github Profile <br>
-<img width="50" src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" style="max-width:100%;">
+<img width="70" src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif">
 </h2>
 
 <!--
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-Tools and Technologies I love working with
+<img width="40" src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif"> &nbsp;&nbsp;&nbsp;   Tools and Technologies I love working with
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50">
@@ -57,3 +57,29 @@ Tools and Technologies I love working with
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&theme=radical&langs_count=6&layout=compact"-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&amp;hide=java,html,css&amp;theme=radical">
 </div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
