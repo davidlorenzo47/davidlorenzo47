@@ -1,9 +1,7 @@
-###
-<div align="center"> 
-<p style="font-size:80px;"><strong>Hello, I am Dhruvang<br> Welcome to my Github Profile</strong> </p>
+<div align="center"; style="font-size: 250px;"> 
+<h3><strong>Hello, I am Dhruvang<br> Welcome to my Github Profile </strong></h3>
 <img width="70" src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif">
 </div>
-
 
 <!--
 **davidlorenzo47/davidlorenzo47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,12 +19,12 @@ Here are some ideas to get you started:
 -->
 ---
 <div align="center">
-  <h4>About me</h4>
+  <h3>About me</h3>
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFD2&size=30&center=true&vCenter=true&width=700&lines=Eager+to+learn+new+things;Technophile;Loves+Computer+and+Computer+Technologies">
 </div>
 
 ---
-<img width="40" src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif"> &nbsp;&nbsp;&nbsp;   Tools and Technologies I love working with
+<img width="40" src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif"> &nbsp;&nbsp;&nbsp;   <h4>Tools and Technologies I love working with</h4>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50">
@@ -55,13 +53,11 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+<h4>Most Used Programming Languages by me</h4>
 <div align="center">
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&theme=radical&langs_count=6&layout=compact"-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&amp;hide=java,html,css&amp;theme=radical">
 </div>
-
----
 
 
 
