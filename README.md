@@ -1,7 +1,6 @@
 ###
 <div align="center"> 
-  <p></p>
-<head>Hello, I am Dhruvang<br> Welcome to my Github Profile </head> <br>
+<p style="font-size:80px;"><strong>Hello, I am Dhruvang<br> Welcome to my Github Profile</strong> </p>
 <img width="70" src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif">
 </div>
 
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 -->
 ---
 <div align="center">
-  <h3>About me</h3>
+  <h4>About me</h4>
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFD2&size=30&center=true&vCenter=true&width=700&lines=Eager+to+learn+new+things;Technophile;Loves+Computer+and+Computer+Technologies">
 </div>
 
