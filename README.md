@@ -1,7 +1,10 @@
 ###
-<h2 align="center">Hello, I am Dhruvang<br> Welcome to my Github Profile <br>
+<div align="center"> 
+  <p></p>
+<head>Hello, I am Dhruvang<br> Welcome to my Github Profile </head> <br>
 <img width="70" src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif">
-</h2>
+</div>
+
 
 <!--
 **davidlorenzo47/davidlorenzo47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 <div align="center">
   <h3>About me</h3>
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFD2&size=30&center=true&vCenter=true&width=700&lines=Eager+to+learn+new+things;Technophile;Loves+Computer+and+Computer+Technologies">
