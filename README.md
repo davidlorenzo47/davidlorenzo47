@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 <img width="40" src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif"> &nbsp;&nbsp;&nbsp;   <h4>Tools and Technologies I love working with</h4>
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> 
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" target="_blank" width="50"></a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50">
