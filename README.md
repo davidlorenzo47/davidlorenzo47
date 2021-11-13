@@ -34,21 +34,23 @@ Here are some ideas to get you started:
 <a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50"></a>
 <a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"></a>
 <a href="https://www.npmjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50"></a>
+<a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50"></a>
 <a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50"></a>
 <a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"></a>
-<a href="https://www.iso.org/standard/74528.html"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.png" width="50"></a>
+<a href="https://isocpp.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.svg" width="50"></a>
+<a href="https://www.oracle.com/java/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50"></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" width="50"></a>
 <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" width="50"></a>
 <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"></a>
-<!--img src="" width=""-->
-<!--img src="" width=""-->
-<!--img src="" width=""-->
-<!--img src="" width=""-->
-<!--img src="" width=""-->
-<!--img src="" width=""-->
-<!--img src="" width=""-->
-<!--img src="" width=""-->
-<!--img src="" width=""-->
+<a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50"></a>
+<a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50"></a>
+<!-- <a href=""><img src="" width="50"></a>
+<a href=""><img src="" width="50"></a>
+<a href=""><img src="" width="50"></a>
+<a href=""><img src="" width="50"></a>
+<a href=""><img src="" width="50"></a>
+<a href=""><img src="" width="50"></a>
+<a href=""><img src="" width="50"></a> -->
   
 </div>
 
