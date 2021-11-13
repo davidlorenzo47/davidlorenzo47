@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 ---
 <img width="40" src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif"> &nbsp;&nbsp;&nbsp;   <h4>Tools and Technologies I love working with</h4>
 <div align="center">
-<a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" target="_blank" width="50"></a> 
-<a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"></a>
-<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50"></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50"></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"></a>
-<a href="https://jquery.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50"></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"></a>
-<a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50"></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50"></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"></a>
-<a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.png" width="50"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" width="50"></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" width="50"></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"></a>
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"></a> 
+<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"></a>
+<a href="https://html.spec.whatwg.org/" ><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50"></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50"></a>
+<a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"></a>
+<a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50"></a>
+<a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"></a>
+<a href="https://www.npmjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50"></a>
+<a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50"></a>
+<a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"></a>
+<a href="https://www.iso.org/standard/74528.html"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.png" width="50"></a>
+<a href="https://code.visualstudio.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" width="50"></a>
+<a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" width="50"></a>
+<a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"></a>
 <!--img src="" width=""-->
 <!--img src="" width=""-->
 <!--img src="" width=""-->
