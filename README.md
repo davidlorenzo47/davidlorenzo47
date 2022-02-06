@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
+![Github Activity Graph](https://readme-graphh.herokuapp.com/graph?username=davidlorenzo47&theme=react-dark&area=true&area_color=89e6ff)
+
+---
 ![](https://komarev.com/ghpvc/?username=your-github-davidlorenzo47&label=Profile+Views&style=plastic)
 
 
