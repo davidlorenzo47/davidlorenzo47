@@ -61,18 +61,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&amp;hide=java,html,css&amp;theme=radical">
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
+![](https://komarev.com/ghpvc/?username=your-github-davidlorenzo47&label=Profile+Views&style=plastic)
 
 
 
