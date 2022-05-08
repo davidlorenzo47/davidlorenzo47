@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 ---
 ![](https://komarev.com/ghpvc/?username=your-github-davidlorenzo47&label=Profile+Views&style=plastic)
-<img src="https://iplogger.org/1Nchc7">
+<div><img src="https://iplogger.org/1Nchc7"></div>
 
 
 
