@@ -56,16 +56,13 @@ Here are some ideas to get you started:
 
 ---
 <h4>Most Used Programming Languages by me</h4>
-<div align="center">
-<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&theme=radical&langs_count=6&layout=compact"-->
+<div align="center">https://github-readme-activity-graph.vercel.app/graph?username=davidlorenzo47&theme=tokyo-night
+<!--img src="https://github-readme-activity-graph.vercel.app/graph?username=davidlorenzo47&theme=tokyo-night&langs_count=6&layout=compact"-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&amp;hide=java,html,css&amp;theme=radical">
 </div>
 
 ---
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=davidlorenzo47&theme=react-dark&area=true&area_color=89e6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- ![Github Activity Graph](https://readme-graphh.herokuapp.com/graph?username=davidlorenzo47&theme=react-dark&area=true&area_color=89e6ff) -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davidlorenzo47&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidlorenzo47&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ![](https://komarev.com/ghpvc/?username=your-github-davidlorenzo47&label=Profile+Views&style=plastic)
