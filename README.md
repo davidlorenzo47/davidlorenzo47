@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 <h4>Most Used Programming Languages by me</h4>
-<div align="center">https://github-readme-activity-graph.vercel.app/graph?username=davidlorenzo47&theme=tokyo-night
+<div align="center">
 <!--img src="https://github-readme-activity-graph.vercel.app/graph?username=davidlorenzo47&theme=tokyo-night&langs_count=6&layout=compact"-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlorenzo47&amp;hide=java,html,css&amp;theme=radical">
 </div>
